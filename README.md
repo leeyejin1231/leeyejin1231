@@ -15,7 +15,6 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
   <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/?hl=ko" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target"_blank"> <img src="https://images.velog.io/images/leeyejin1231/post/44da66f1-0fb0-41d5-aa67-fe49dc2abbd3/react-native-1.svg" alt="reactnative" width="40" height="45"/> </a>
  <a href="https://flutter.dev/?gclsrc=aw.ds&gclid=CjwKCAiAlfqOBhAeEiwAYi43F4LCwKqGrTKIX2zeGPC0q32o3fg0u1rK_tV-kq0Abs0Z2VQFpeqCexoCgxIQAvD_BwE" target="_blank"> <img src="https://images.velog.io/images/leeyejin1231/post/880e70a2-59dd-4af0-b871-916dfe636ccd/flutter-logo.svg" alt="flutter" width="40" height="40"/> </a>
  <a href="https://developer.android.com/?hl=ko" target="_blank"> <img src="https://images.velog.io/images/leeyejin1231/post/5410ffc3-e0ea-4f5c-8165-c2408c52be6a/android-logomark.svg" alt="android" width="40" height="40/> </a>
