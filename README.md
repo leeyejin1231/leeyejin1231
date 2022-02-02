@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C996F7&size=25&lines=+Hello+👋+leeyejin's+github)](https://git.io/typing-svg)
 
 - 📫 How to reach me : ssgyejin@gmail.com
-- 📝 Blog : 
+- 📝 Blog : https://velog.io/@leeyejin1231
 
 <h3 align="left">🛠 Technical Skills</h3>
 <p align="left">
