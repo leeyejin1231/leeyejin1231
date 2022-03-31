@@ -25,6 +25,6 @@
 
 <h3 align="left">💻 GitHub Analytics</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyejin1231&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyejin1231&show_icons=true&theme=dracula)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyejin1231&langs_count=8&hide=&layout=compact&theme=dracula)
