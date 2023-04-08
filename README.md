@@ -2,7 +2,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=300&section=header&text=Lee&desc=yejin&fontSize=90) -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C996F7&size=25&lines=+Hello+👋+yejin's+github)](https://git.io/typing-svg)   -->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C996F7&size=25&lines=+Hello+👋+yejin's+github)](https://git.io/typing-svg)  
 
 </div>
 
