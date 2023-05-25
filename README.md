@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
+<br>  
 <!-- <h3 align="center">💻 GitHub Analytics</h3> -->
 
 <div align="center">
