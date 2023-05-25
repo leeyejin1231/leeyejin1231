@@ -18,6 +18,7 @@
   
 |PERIOD|TITLE|SUBJECT|
 |------|---|---|
+   |23.05.24 |성균관대학교 소프트웨어학과 졸업작품 발표회 🏆우수발표상|음성회의 요약 및 검색 시스템|
   |23.01.17 - 18|제 4회 AI x BOOKATHON 🏆장려상|'담대한'으로 AI 수필 작성 [소신(小身)의 소신(所信) : 두렵지만, 소신있고, 담대하게]|
 |22.08.22 - 26|제 1회 kakao x goorm 구름톤(9oormthon) 🏆최우수상|제주 비상품 감귤 문제 해결을 위한 사용자 위치 기반 감귤 나눔 서비스 [귤러가요]|
   |22.01 - 22.06|NAVER boostcamp AI Tech 3th|네이버에서 진행하는 AI 개발자 양성 교육 과정 NLP 트랙 참여|
@@ -45,6 +46,7 @@
   <br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
