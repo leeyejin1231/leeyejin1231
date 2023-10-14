@@ -48,7 +48,7 @@
   
 |PERIOD|TITLE|SUBJECT|HOST|AWARDS|
 |------|---|---|---|---|
-|23.07.22 - 08.05 |2023 AI HACKATHON|AI 기반 맞춤형 커리큘럼 추천 서비스 [[SKILLINK]](https://drive.google.com/file/d/1Q4mopEod2WrYTT0ewiFGCe-DdGOUbiwz/view)|udemy큐레이션·wanted·조코딩|🏆 3등|  
+|23.07.22 - 08.05 |2023 AI HACKATHON|AI 기반 맞춤형 커리큘럼 추천 서비스 [[SKILLINK]](https://github.com/sweet-muffin/skillink)|udemy큐레이션·wanted·조코딩|🏆 3등|  
    |23.05.24 |2023학년도 1학기 성균관대학교 소프트웨어학과/컴퓨터공학과 연구논문·작품 발표회|[음성회의 요약 및 검색 시스템](https://github.com/skku-skku/Record-summary-qa-system)|성균관대학교 소프트웨어융합대학|🏆 우수발표상|  
 |23.04.01 - (진행중)|제 3회 성균관대 AI·ICT 창의자율과제 공모전|시각장애인들을 위한 가전제품 음성 안내 서비스[A-eye]|성균관대학교 ICT명품인재양성사업단|2차 과제 선발|
   |23.01.17 - 18|제 4회 대학생 AI x BOOKATHON|'담대한'으로 AI 수필 작성 [[소신(小身)의 소신(所信) : 두렵지만, 소신있고, 담대하게]](https://github.com/JLake310/Bookathon_4th_Jagga)|성균관대학교|🏆 장려상|  
