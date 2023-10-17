@@ -1,46 +1,38 @@
-<div align="center">
-
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=300&section=header&text=Lee&desc=yejin&fontSize=90) -->
-
+<!--<div align="center">
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C996F7&size=25&lines=+Hello+👋+yejin's+github)](https://git.io/typing-svg)  
-
-</div>
-
-<p align="center">
+</div>-->
+<!--<p align="center">
 📫 ssgyejin@gmail.com</br>
 📝 <a href="https://velog.io/@leeyejin1231">Tech blog</a>
-</p>
+</p>-->
+<!--### 📚 Tech Stack
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
+  </br>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">-->
 
-</br>
-  
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp     
-  <br>
-<!--   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp -->
-<!--   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp -->
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp  -->
-<!--   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a>&nbsp -->
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-<!--   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp -->
-<!--   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>&nbsp -->
-  <br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
-<!--   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp -->
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <br>
-<!--   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp  -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
-</p>
+### 🧸 Activities
+ - **제 3회 AI·ICT 창의자율과제 공모전** | 성균관대학교, 과학기술정보통신부 | 2차과제 | 23.04 - 
+ - **boostcamp AI Tech 3기 NLP 트랙** | 네이버 커넥트재단 | 2022.01 - 2022.06  
+ - **산학협력 프로젝트** | 성균관대학교, 신한은행 | 2021.05 - 2021.12
 
-<br>
+### 🏆 Awards
+- [2023 AI HACKATHON](https://github.com/sweet-muffin/skillink) | udemy큐레이션·wanted·조코딩 | 3등
+- [2023학년도 1학기 성균관대학교 소프트웨어학과/컴퓨터공학과 연구논문·작품 발표회](https://github.com/skku-skku/Record-summary-qa-system) | 성균관대학교 소프트웨어융합대학 | 우수발표상
+- [제 4회 대학생 AI x BOOKATHON](https://github.com/JLake310/Bookathon_4th_Jagga) | 성균관대학교, 산학연기술혁신공유협의회 | 장려상
+- [제주 ICT 이노베이션스퀘어 아이디어 공모전](https://github.com/99ulling/99ulling) | 제주산학융합원 | 장려상
+- [제 1회 구름톤(9oormthon)](https://github.com/99ulling/99ulling) | kakao, goorm | 최우수상
 
-<h3 align="center">🧸 Projects 🧸</h3>
+### 📑 Patent
+- [대중교통 배려석 THE CARING SEAT IN A PUBLIC TRANSPORTATION](https://github.com/leeyejin1231/JKJproject) | 10-2020-0000289
+
+
+
+
+<!-- <h3 align="center">🧸 Projects 🧸</h3>
 
 <br>
 
@@ -58,7 +50,7 @@
 
 </div>
 
-<br>  
+<br>  -->
 <!-- <h3 align="center">💻 GitHub Analytics</h3> -->
 
 <div align="center">
