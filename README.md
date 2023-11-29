@@ -21,7 +21,8 @@
  - **산학협력 프로젝트** | 성균관대학교, 신한은행 | 21.05 - 21.12
 
 ### 🏆 Awards
-- [2023 AI HACKATHON](https://github.com/sweet-muffin/skillink) | udemy큐레이션·wanted·조코딩 | 3등
+- **2023년 제3회 K-인공지능 제조데이터 분석 경진대회** | 중소벤처기업부, 스마트제조혁신추진단, KAIST | 최우수상
+- [2023 AI HACKATHON](https://github.com/sweet-muffin/skillink) | udemy큐레이션, wanted, 조코딩 | 3등
 - [2023학년도 1학기 성균관대학교 소프트웨어학과/컴퓨터공학과 연구논문·작품 발표회](https://github.com/skku-skku/Record-summary-qa-system) | 성균관대학교 소프트웨어융합대학 | 우수발표상
 - [제 4회 대학생 AI x BOOKATHON](https://github.com/JLake310/Bookathon_4th_Jagga) | 성균관대학교, 산학연기술혁신공유협의회 | 장려상
 - [제주 ICT 이노베이션스퀘어 아이디어 공모전](https://github.com/99ulling/99ulling) | 제주산학융합원 | 장려상
