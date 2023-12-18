@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">-->
 
 ### 🧸 Activities
- - **제3회 AI·ICT 창의자율과제 공모전** | 성균관대학교, 과학기술정보통신부 | 5등 | 23.04 - 23.11
+ - **제3회 AI·ICT 창의자율과제 공모전** | 성균관대학교, 과학기술정보통신부 | 1, 2차과제 선정 | 23.04 - 23.11
  - **boostcamp AI Tech 3기 NLP 트랙** | 네이버 커넥트재단 | 22.01 - 22.06  
  - **산학협력 프로젝트** | 성균관대학교, 신한은행 | 21.05 - 21.12
 
