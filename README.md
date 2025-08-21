@@ -1,8 +1,8 @@
 <div align='center'>
-  <img src="assets/hello_world.jpeg" width="180px">
+  <img src="assets/hello_world.png" width="280">
   
-  📝 **blog** | <a href="https://velog.io/@leeyejin1231">두꺼비는 두껍다</a> · 
-  📫 **email** | ssgyejin@gmail.com
+  📫 **email** | ssgyejin@gmail.com · 
+  📝 **blog** | <a href="https://velog.io/@leeyejin1231">두꺼비는 두껍다</a>
 
 </div>
 
