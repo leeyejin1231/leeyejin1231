@@ -1,5 +1,8 @@
 <div align='center'>
-  <img src="assets/hello_world.png" width="280">
+  <img src="assets/robot.png" width="180">
+  <a href="https://leeyejin1231.github.io/is_robot/">
+    <img src="assets/is_robot.png" width="180"> 
+  </a>
   
   📫 **email** | ssgyejin@gmail.com · 
   📝 **blog** | <a href="https://velog.io/@leeyejin1231">두꺼비는 두껍다</a>
