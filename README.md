@@ -1,7 +1,7 @@
 <div align='center'>
-  <img src="assets/robot.png" width="180">
+  <img src="assets/robot.png" width="210">
   <a href="https://leeyejin1231.github.io/is_robot/">
-    <img src="assets/is_robot.png" width="180"> 
+    <img src="assets/is_robot.png" width="210"> 
   </a>
   
   📫 **email** | ssgyejin@gmail.com · 
