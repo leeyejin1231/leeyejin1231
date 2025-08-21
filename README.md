@@ -1,6 +1,6 @@
 <div align='center'>
   <img src="assets/robot.png" width="210">
-  <a href="https://leeyejin1231.github.io/is_robot/">
+  <a href="https://leeyejin1231.github.io/is_robot/" target="_blank" onclick="window.open(this.href, 'popup', 'width=350,height=450'); return false;" style="width:150px;">
     <img src="assets/is_robot.png" width="210"> 
   </a>
   
