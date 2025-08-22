@@ -30,7 +30,7 @@
 - [제 1회 구름톤(9oormthon)](https://github.com/99ulling/99ulling) | kakao, goorm | 최우수상
 
 ### Publications
-[Amplify target-context relationships for implicit hate speech detection](https://github.com/leeyejin1231/AmpleHate) | EMNLP 2025
+[AmpleHate: Amplify target-context relationships for implicit hate speech detection](https://github.com/leeyejin1231/AmpleHate) | EMNLP 2025
 
 ### Patent
 [대중교통 배려석 THE CARING SEAT IN A PUBLIC TRANSPORTATION](https://github.com/leeyejin1231/JKJproject) | 10-2020-0000289
