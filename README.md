@@ -16,7 +16,7 @@
 >  **Sungkyunkwan University** | B.S Computer Science and Egineering | Feb 2021 - Feb 2024
 
 ### Work Experiences
->  **LG Electorinics** | R&D Software Engineer | Jan 2024 - May 2024    
+>  **LG Electorinics** | R&D SW | Jan 2024 - May 2024    
 >  **Crois** | AI Research Intern | Sep 2023 - Dec 2023
 
 ### Activities
@@ -27,7 +27,7 @@
 - **3rd K-AI Manufacturing Data Analysis Competition** (2023) | Ministry of SMEs and Startups, Smart Manufacturing Innovation Promotion Group, KAIST | Grand Prize  
 - **3rd AI·ICT Creative & Free-topic Project Competition** (2023)| Sungkyunkwan Univ, Ministry of Science and ICT | Ranked 5th
 - **Outstanding Open Source Software Student** (2022, 2023) | College of Software, Sungkyunkwan Univ | Encouragement Award  
-- [2023 AI HACKATHON](https://github.com/sweet-muffin/skillink) | Udemy Curation, Wanted,JoCoding | 3rd Place  
+- [2023 AI HACKATHON](https://github.com/sweet-muffin/skillink) | Udemy Curation, Wanted, JoCoding | 3rd Place  
 - [2023 Spring Research Paper and Project Presentation](https://github.com/skku-skku/Record-summary-qa-system) | College of Software, Sungkyunkwan Univ | Best Presentation Award  
 - [4th Undergraduate AI x BOOKATHON](https://github.com/JLake310/Bookathon_4th_Jagga) (2023) | Sungkyunkwan Univ, Industry-Academic-Research Innovation Council | Encouragement Award  
 - [Jeju ICT Innovation Square Idea Competition](https://github.com/99ulling/99ulling) (2022) | Jeju Industry-University Cooperation Foundation | Encouragement Award  
