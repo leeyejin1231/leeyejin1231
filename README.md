@@ -10,11 +10,6 @@
 </div>
 
 ---
-
-### Education
->  **Yonsei University** | Ph.D candidate, Computer Science | Sep 2024 - Present  
->  **Sungkyunkwan University** | B.S Computer Science and Egineering | Feb 2021 - Feb 2024
-
 ### Work Experiences
 >  **LG Electorinics** | R&D SW | Jan 2024 - May 2024    
 >  **Crois** | AI Research Intern | Sep 2023 - Dec 2023
